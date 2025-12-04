@@ -1,0 +1,1801 @@
+need_id,case_id,need_type,description,urgency
+N0001,C0142,Financial,Minor,Medium
+N0002,C0205,Financial,Urgent,Medium
+N0003,C0082,Financial,Moderate need,High
+N0004,C0203,Financial,Urgent,High
+N0005,C0887,Medical,Minor,Medium
+N0006,C0547,Shelter,Moderate need,Low
+N0007,C0658,Shelter,Urgent,Low
+N0008,C0395,Medical,Minor,High
+N0009,C0396,Shelter,Urgent,Low
+N0010,C0153,Food,Urgent,High
+N0011,C0661,Financial,Urgent,Low
+N0012,C0328,Medical,Urgent,Low
+N0013,C0020,Food,Minor,High
+N0014,C0244,Financial,Urgent,Low
+N0015,C0478,Shelter,Urgent,Low
+N0016,C0396,Financial,Moderate need,Low
+N0017,C0362,Food,Minor,Medium
+N0018,C0737,Medical,Minor,Low
+N0019,C0742,Shelter,Minor,High
+N0020,C0737,Medical,Moderate need,Low
+N0021,C0230,Financial,Urgent,High
+N0022,C0112,Medical,Moderate need,Medium
+N0023,C0435,Medical,Urgent,Medium
+N0024,C0894,Shelter,Moderate need,Medium
+N0025,C0432,Shelter,Minor,Medium
+N0026,C0729,Financial,Minor,Low
+N0027,C0587,Financial,Moderate need,Low
+N0028,C0616,Food,Urgent,Medium
+N0029,C0862,Medical,Minor,Medium
+N0030,C0313,Financial,Urgent,High
+N0031,C0401,Financial,Urgent,Medium
+N0032,C0237,Medical,Urgent,Medium
+N0033,C0824,Shelter,Moderate need,Medium
+N0034,C0570,Shelter,Moderate need,Low
+N0035,C0877,Financial,Urgent,Low
+N0036,C0396,Shelter,Urgent,Low
+N0037,C0766,Financial,Urgent,High
+N0038,C0568,Financial,Moderate need,Low
+N0039,C0165,Medical,Urgent,Low
+N0040,C0319,Shelter,Moderate need,Low
+N0041,C0328,Shelter,Urgent,Low
+N0042,C0841,Shelter,Moderate need,High
+N0043,C0270,Financial,Moderate need,High
+N0044,C0638,Food,Minor,Low
+N0045,C0094,Medical,Urgent,High
+N0046,C0201,Food,Moderate need,Low
+N0047,C0440,Medical,Minor,Medium
+N0048,C0815,Shelter,Moderate need,Medium
+N0049,C0214,Medical,Moderate need,Medium
+N0050,C0382,Medical,Moderate need,High
+N0051,C0445,Food,Moderate need,Medium
+N0052,C0201,Food,Minor,Low
+N0053,C0592,Medical,Minor,Low
+N0054,C0891,Financial,Moderate need,Low
+N0055,C0333,Medical,Urgent,High
+N0056,C0024,Financial,Minor,High
+N0057,C0469,Financial,Moderate need,High
+N0058,C0644,Food,Minor,Medium
+N0059,C0249,Medical,Urgent,Low
+N0060,C0682,Shelter,Moderate need,High
+N0061,C0149,Medical,Moderate need,Low
+N0062,C0580,Financial,Urgent,Medium
+N0063,C0691,Shelter,Urgent,Low
+N0064,C0185,Financial,Moderate need,Medium
+N0065,C0861,Shelter,Minor,High
+N0066,C0069,Medical,Moderate need,High
+N0067,C0392,Medical,Urgent,Low
+N0068,C0177,Shelter,Urgent,High
+N0069,C0776,Financial,Moderate need,High
+N0070,C0291,Shelter,Urgent,Low
+N0071,C0295,Medical,Minor,Medium
+N0072,C0135,Food,Urgent,Medium
+N0073,C0037,Financial,Moderate need,High
+N0074,C0722,Shelter,Moderate need,Medium
+N0075,C0846,Shelter,Minor,Medium
+N0076,C0545,Shelter,Minor,Low
+N0077,C0442,Shelter,Urgent,High
+N0078,C0324,Shelter,Urgent,Medium
+N0079,C0375,Financial,Urgent,Medium
+N0080,C0535,Food,Minor,Low
+N0081,C0009,Financial,Minor,Low
+N0082,C0417,Financial,Urgent,Medium
+N0083,C0489,Financial,Urgent,Medium
+N0084,C0152,Shelter,Urgent,Medium
+N0085,C0151,Shelter,Moderate need,Low
+N0086,C0864,Financial,Moderate need,Medium
+N0087,C0195,Food,Urgent,High
+N0088,C0193,Financial,Minor,High
+N0089,C0857,Financial,Moderate need,High
+N0090,C0003,Food,Minor,Medium
+N0091,C0858,Food,Moderate need,High
+N0092,C0206,Medical,Urgent,Medium
+N0093,C0475,Medical,Minor,Low
+N0094,C0647,Shelter,Minor,High
+N0095,C0709,Medical,Minor,Low
+N0096,C0184,Shelter,Minor,High
+N0097,C0137,Medical,Minor,Medium
+N0098,C0433,Medical,Moderate need,High
+N0099,C0737,Medical,Minor,Low
+N0100,C0688,Shelter,Minor,Medium
+N0101,C0321,Financial,Moderate need,Medium
+N0102,C0665,Shelter,Moderate need,High
+N0103,C0263,Medical,Minor,Low
+N0104,C0594,Medical,Minor,Low
+N0105,C0828,Medical,Minor,Medium
+N0106,C0363,Shelter,Moderate need,Low
+N0107,C0386,Shelter,Minor,Medium
+N0108,C0236,Financial,Moderate need,Low
+N0109,C0036,Food,Moderate need,Medium
+N0110,C0363,Medical,Urgent,Low
+N0111,C0595,Shelter,Moderate need,High
+N0112,C0761,Shelter,Moderate need,High
+N0113,C0263,Financial,Urgent,Low
+N0114,C0786,Shelter,Minor,High
+N0115,C0200,Food,Minor,Medium
+N0116,C0656,Financial,Moderate need,Medium
+N0117,C0560,Financial,Moderate need,Low
+N0118,C0622,Medical,Moderate need,Low
+N0119,C0851,Financial,Urgent,Low
+N0120,C0124,Food,Urgent,Medium
+N0121,C0640,Financial,Minor,Low
+N0122,C0779,Financial,Moderate need,Low
+N0123,C0108,Financial,Minor,Low
+N0124,C0591,Food,Minor,Low
+N0125,C0082,Shelter,Urgent,Low
+N0126,C0698,Financial,Minor,Medium
+N0127,C0403,Food,Moderate need,Medium
+N0128,C0044,Financial,Minor,High
+N0129,C0375,Shelter,Moderate need,Low
+N0130,C0757,Shelter,Minor,High
+N0131,C0312,Food,Minor,Low
+N0132,C0866,Food,Minor,High
+N0133,C0036,Food,Urgent,Low
+N0134,C0198,Shelter,Urgent,Low
+N0135,C0144,Shelter,Urgent,Medium
+N0136,C0163,Medical,Minor,Medium
+N0137,C0291,Financial,Moderate need,Low
+N0138,C0319,Financial,Moderate need,Medium
+N0139,C0561,Medical,Urgent,High
+N0140,C0310,Food,Minor,Medium
+N0141,C0511,Financial,Minor,Medium
+N0142,C0488,Shelter,Moderate need,Low
+N0143,C0583,Shelter,Minor,High
+N0144,C0748,Shelter,Moderate need,High
+N0145,C0325,Financial,Minor,High
+N0146,C0470,Food,Urgent,High
+N0147,C0550,Medical,Moderate need,High
+N0148,C0494,Food,Moderate need,Medium
+N0149,C0570,Food,Urgent,High
+N0150,C0344,Financial,Minor,Low
+N0151,C0469,Medical,Urgent,Medium
+N0152,C0147,Shelter,Urgent,Low
+N0153,C0651,Medical,Minor,High
+N0154,C0735,Financial,Minor,Low
+N0155,C0247,Food,Minor,Low
+N0156,C0252,Financial,Urgent,Medium
+N0157,C0101,Medical,Moderate need,High
+N0158,C0709,Shelter,Urgent,High
+N0159,C0334,Medical,Urgent,High
+N0160,C0526,Food,Minor,High
+N0161,C0834,Financial,Urgent,Medium
+N0162,C0645,Financial,Urgent,Medium
+N0163,C0217,Shelter,Minor,Medium
+N0164,C0775,Medical,Urgent,High
+N0165,C0558,Medical,Minor,High
+N0166,C0684,Medical,Moderate need,High
+N0167,C0416,Medical,Moderate need,Low
+N0168,C0804,Medical,Urgent,High
+N0169,C0253,Medical,Minor,Low
+N0170,C0625,Medical,Moderate need,Low
+N0171,C0866,Medical,Moderate need,High
+N0172,C0865,Food,Moderate need,Low
+N0173,C0063,Food,Urgent,Medium
+N0174,C0039,Shelter,Moderate need,Medium
+N0175,C0009,Medical,Minor,Medium
+N0176,C0605,Medical,Moderate need,High
+N0177,C0246,Food,Minor,Medium
+N0178,C0333,Food,Minor,Medium
+N0179,C0201,Financial,Moderate need,Medium
+N0180,C0525,Medical,Moderate need,Low
+N0181,C0063,Food,Minor,Medium
+N0182,C0220,Shelter,Moderate need,Medium
+N0183,C0387,Food,Urgent,Medium
+N0184,C0441,Financial,Moderate need,Low
+N0185,C0449,Food,Urgent,Low
+N0186,C0327,Food,Minor,Medium
+N0187,C0806,Medical,Moderate need,Low
+N0188,C0718,Food,Moderate need,Medium
+N0189,C0406,Medical,Moderate need,Medium
+N0190,C0557,Financial,Moderate need,Low
+N0191,C0545,Food,Minor,Low
+N0192,C0300,Financial,Urgent,Low
+N0193,C0285,Shelter,Urgent,Medium
+N0194,C0215,Financial,Urgent,High
+N0195,C0544,Shelter,Minor,High
+N0196,C0472,Food,Minor,High
+N0197,C0777,Financial,Minor,Medium
+N0198,C0491,Medical,Minor,Low
+N0199,C0441,Medical,Moderate need,Low
+N0200,C0369,Medical,Urgent,Low
+N0201,C0181,Financial,Moderate need,Medium
+N0202,C0462,Food,Moderate need,High
+N0203,C0413,Food,Moderate need,High
+N0204,C0200,Food,Moderate need,Low
+N0205,C0029,Food,Minor,High
+N0206,C0384,Shelter,Urgent,Low
+N0207,C0397,Financial,Moderate need,Medium
+N0208,C0253,Shelter,Urgent,Medium
+N0209,C0182,Medical,Moderate need,Medium
+N0210,C0276,Food,Urgent,Low
+N0211,C0611,Shelter,Minor,Low
+N0212,C0565,Shelter,Minor,Low
+N0213,C0690,Shelter,Minor,Low
+N0214,C0185,Medical,Moderate need,High
+N0215,C0013,Food,Minor,Medium
+N0216,C0706,Financial,Moderate need,Low
+N0217,C0314,Food,Moderate need,Low
+N0218,C0164,Shelter,Moderate need,High
+N0219,C0540,Food,Minor,Medium
+N0220,C0330,Financial,Moderate need,Low
+N0221,C0691,Food,Urgent,High
+N0222,C0501,Medical,Minor,Medium
+N0223,C0445,Shelter,Moderate need,Low
+N0224,C0291,Food,Moderate need,Low
+N0225,C0189,Financial,Moderate need,Medium
+N0226,C0255,Shelter,Urgent,High
+N0227,C0703,Medical,Moderate need,Medium
+N0228,C0882,Financial,Urgent,High
+N0229,C0473,Medical,Minor,Medium
+N0230,C0588,Food,Moderate need,High
+N0231,C0742,Medical,Moderate need,Medium
+N0232,C0547,Medical,Minor,Medium
+N0233,C0883,Medical,Minor,Medium
+N0234,C0111,Shelter,Minor,Low
+N0235,C0419,Food,Moderate need,Medium
+N0236,C0114,Shelter,Urgent,Medium
+N0237,C0365,Food,Urgent,Low
+N0238,C0494,Food,Moderate need,High
+N0239,C0053,Medical,Minor,Medium
+N0240,C0718,Medical,Minor,High
+N0241,C0313,Medical,Minor,High
+N0242,C0278,Food,Urgent,Medium
+N0243,C0010,Shelter,Moderate need,Medium
+N0244,C0158,Food,Minor,Medium
+N0245,C0101,Shelter,Urgent,Low
+N0246,C0820,Medical,Minor,High
+N0247,C0203,Medical,Minor,High
+N0248,C0240,Food,Urgent,Low
+N0249,C0847,Shelter,Urgent,High
+N0250,C0483,Financial,Minor,High
+N0251,C0621,Shelter,Minor,High
+N0252,C0728,Financial,Moderate need,High
+N0253,C0301,Shelter,Minor,Medium
+N0254,C0843,Financial,Minor,Low
+N0255,C0350,Medical,Urgent,Low
+N0256,C0644,Food,Minor,Low
+N0257,C0267,Financial,Moderate need,High
+N0258,C0027,Shelter,Minor,Low
+N0259,C0773,Shelter,Minor,Medium
+N0260,C0486,Medical,Urgent,High
+N0261,C0618,Financial,Minor,High
+N0262,C0649,Shelter,Moderate need,Low
+N0263,C0132,Shelter,Moderate need,Medium
+N0264,C0524,Shelter,Moderate need,Medium
+N0265,C0287,Financial,Urgent,High
+N0266,C0117,Food,Urgent,Low
+N0267,C0296,Shelter,Urgent,Low
+N0268,C0203,Shelter,Urgent,Low
+N0269,C0671,Shelter,Minor,Medium
+N0270,C0829,Financial,Urgent,Low
+N0271,C0132,Food,Minor,High
+N0272,C0723,Shelter,Minor,Medium
+N0273,C0122,Food,Minor,Medium
+N0274,C0072,Financial,Minor,Low
+N0275,C0447,Financial,Urgent,High
+N0276,C0779,Financial,Minor,Low
+N0277,C0397,Financial,Urgent,Low
+N0278,C0528,Food,Urgent,High
+N0279,C0004,Food,Minor,Medium
+N0280,C0296,Medical,Moderate need,Low
+N0281,C0157,Food,Moderate need,Low
+N0282,C0075,Medical,Minor,Low
+N0283,C0620,Financial,Minor,High
+N0284,C0733,Financial,Minor,Low
+N0285,C0078,Medical,Minor,Medium
+N0286,C0287,Shelter,Minor,High
+N0287,C0613,Medical,Urgent,Medium
+N0288,C0369,Food,Urgent,High
+N0289,C0695,Medical,Urgent,High
+N0290,C0620,Medical,Minor,High
+N0291,C0664,Food,Minor,High
+N0292,C0889,Shelter,Urgent,High
+N0293,C0396,Medical,Urgent,Medium
+N0294,C0530,Shelter,Moderate need,Low
+N0295,C0791,Shelter,Urgent,Medium
+N0296,C0790,Shelter,Urgent,Low
+N0297,C0381,Financial,Urgent,Medium
+N0298,C0533,Food,Minor,Medium
+N0299,C0613,Financial,Urgent,High
+N0300,C0108,Food,Moderate need,Medium
+N0301,C0637,Financial,Moderate need,Medium
+N0302,C0315,Financial,Moderate need,Medium
+N0303,C0670,Shelter,Moderate need,High
+N0304,C0428,Food,Moderate need,Medium
+N0305,C0627,Food,Moderate need,Low
+N0306,C0636,Medical,Minor,High
+N0307,C0208,Financial,Moderate need,Low
+N0308,C0684,Food,Urgent,Medium
+N0309,C0258,Financial,Minor,Low
+N0310,C0853,Food,Minor,Low
+N0311,C0699,Shelter,Moderate need,Low
+N0312,C0444,Shelter,Minor,Medium
+N0313,C0162,Shelter,Urgent,Medium
+N0314,C0613,Shelter,Urgent,High
+N0315,C0519,Medical,Minor,Low
+N0316,C0390,Shelter,Urgent,Low
+N0317,C0158,Financial,Moderate need,Low
+N0318,C0113,Medical,Moderate need,Low
+N0319,C0302,Food,Minor,Low
+N0320,C0193,Food,Urgent,High
+N0321,C0138,Shelter,Urgent,Low
+N0322,C0548,Shelter,Moderate need,High
+N0323,C0707,Shelter,Moderate need,Low
+N0324,C0384,Shelter,Urgent,Medium
+N0325,C0459,Shelter,Moderate need,Low
+N0326,C0734,Medical,Minor,Medium
+N0327,C0619,Medical,Urgent,High
+N0328,C0607,Financial,Urgent,Medium
+N0329,C0319,Food,Urgent,Medium
+N0330,C0050,Financial,Moderate need,Low
+N0331,C0030,Shelter,Minor,High
+N0332,C0447,Food,Urgent,High
+N0333,C0426,Financial,Moderate need,Low
+N0334,C0391,Financial,Urgent,High
+N0335,C0232,Shelter,Moderate need,Medium
+N0336,C0577,Medical,Moderate need,High
+N0337,C0601,Shelter,Minor,Medium
+N0338,C0540,Medical,Minor,Medium
+N0339,C0390,Shelter,Urgent,Low
+N0340,C0351,Financial,Minor,Low
+N0341,C0119,Financial,Moderate need,High
+N0342,C0514,Medical,Urgent,Low
+N0343,C0161,Shelter,Urgent,Low
+N0344,C0378,Shelter,Urgent,Low
+N0345,C0841,Financial,Urgent,Low
+N0346,C0735,Medical,Minor,High
+N0347,C0895,Food,Moderate need,Low
+N0348,C0719,Shelter,Moderate need,High
+N0349,C0900,Medical,Moderate need,Low
+N0350,C0570,Shelter,Urgent,Medium
+N0351,C0503,Financial,Minor,Low
+N0352,C0802,Shelter,Minor,Low
+N0353,C0858,Medical,Minor,High
+N0354,C0833,Shelter,Minor,Medium
+N0355,C0076,Medical,Minor,Medium
+N0356,C0468,Shelter,Minor,Medium
+N0357,C0212,Financial,Minor,High
+N0358,C0482,Shelter,Urgent,Medium
+N0359,C0810,Shelter,Urgent,Low
+N0360,C0108,Shelter,Urgent,Medium
+N0361,C0206,Food,Minor,Medium
+N0362,C0442,Shelter,Urgent,High
+N0363,C0506,Shelter,Minor,Low
+N0364,C0047,Financial,Moderate need,Low
+N0365,C0594,Medical,Moderate need,Low
+N0366,C0470,Financial,Minor,Medium
+N0367,C0325,Food,Moderate need,High
+N0368,C0249,Food,Minor,Medium
+N0369,C0021,Medical,Minor,Medium
+N0370,C0100,Shelter,Urgent,High
+N0371,C0463,Financial,Moderate need,Low
+N0372,C0717,Medical,Minor,Medium
+N0373,C0350,Financial,Urgent,Medium
+N0374,C0056,Shelter,Minor,Low
+N0375,C0600,Shelter,Urgent,High
+N0376,C0781,Medical,Minor,Low
+N0377,C0774,Financial,Urgent,High
+N0378,C0636,Financial,Moderate need,Medium
+N0379,C0825,Shelter,Moderate need,Low
+N0380,C0313,Shelter,Minor,Medium
+N0381,C0697,Shelter,Moderate need,Medium
+N0382,C0412,Shelter,Moderate need,Medium
+N0383,C0346,Shelter,Urgent,High
+N0384,C0299,Shelter,Urgent,Medium
+N0385,C0483,Shelter,Moderate need,Medium
+N0386,C0219,Food,Minor,High
+N0387,C0288,Food,Urgent,High
+N0388,C0452,Shelter,Moderate need,High
+N0389,C0010,Food,Urgent,Medium
+N0390,C0825,Shelter,Urgent,Medium
+N0391,C0697,Financial,Moderate need,Low
+N0392,C0456,Food,Moderate need,Medium
+N0393,C0024,Financial,Moderate need,Medium
+N0394,C0379,Medical,Urgent,Medium
+N0395,C0602,Shelter,Moderate need,High
+N0396,C0864,Medical,Urgent,High
+N0397,C0580,Food,Urgent,Medium
+N0398,C0499,Financial,Urgent,High
+N0399,C0827,Shelter,Minor,High
+N0400,C0703,Food,Minor,Medium
+N0401,C0821,Shelter,Minor,High
+N0402,C0394,Food,Moderate need,Low
+N0403,C0104,Medical,Urgent,Medium
+N0404,C0414,Shelter,Minor,High
+N0405,C0190,Food,Urgent,High
+N0406,C0310,Financial,Minor,Low
+N0407,C0113,Financial,Urgent,High
+N0408,C0591,Food,Moderate need,Medium
+N0409,C0644,Financial,Minor,Medium
+N0410,C0711,Financial,Urgent,High
+N0411,C0704,Financial,Moderate need,High
+N0412,C0679,Financial,Urgent,Low
+N0413,C0201,Medical,Moderate need,Low
+N0414,C0341,Financial,Urgent,High
+N0415,C0556,Shelter,Minor,Medium
+N0416,C0368,Medical,Urgent,Low
+N0417,C0644,Medical,Minor,Low
+N0418,C0627,Medical,Minor,Medium
+N0419,C0249,Financial,Minor,Low
+N0420,C0474,Medical,Minor,Low
+N0421,C0176,Medical,Urgent,Medium
+N0422,C0298,Medical,Moderate need,Medium
+N0423,C0258,Food,Minor,Low
+N0424,C0086,Medical,Urgent,High
+N0425,C0661,Shelter,Urgent,Medium
+N0426,C0828,Shelter,Minor,High
+N0427,C0346,Medical,Urgent,High
+N0428,C0634,Shelter,Moderate need,Medium
+N0429,C0775,Shelter,Urgent,High
+N0430,C0111,Shelter,Minor,High
+N0431,C0342,Medical,Moderate need,High
+N0432,C0005,Financial,Moderate need,Medium
+N0433,C0780,Shelter,Urgent,Low
+N0434,C0079,Medical,Minor,High
+N0435,C0424,Shelter,Moderate need,Medium
+N0436,C0258,Shelter,Urgent,Low
+N0437,C0618,Shelter,Minor,Medium
+N0438,C0667,Food,Minor,High
+N0439,C0414,Food,Moderate need,Medium
+N0440,C0179,Food,Minor,Medium
+N0441,C0008,Financial,Urgent,Low
+N0442,C0886,Shelter,Moderate need,Medium
+N0443,C0880,Medical,Urgent,High
+N0444,C0312,Financial,Minor,Medium
+N0445,C0341,Financial,Urgent,Low
+N0446,C0642,Food,Moderate need,Medium
+N0447,C0537,Shelter,Moderate need,High
+N0448,C0292,Medical,Moderate need,Medium
+N0449,C0522,Food,Minor,High
+N0450,C0440,Medical,Urgent,Medium
+N0451,C0581,Financial,Urgent,Medium
+N0452,C0323,Medical,Minor,Low
+N0453,C0242,Shelter,Urgent,Medium
+N0454,C0203,Food,Urgent,Medium
+N0455,C0587,Financial,Urgent,High
+N0456,C0190,Food,Urgent,High
+N0457,C0811,Food,Urgent,Low
+N0458,C0213,Shelter,Minor,Low
+N0459,C0117,Financial,Minor,High
+N0460,C0065,Medical,Urgent,High
+N0461,C0008,Food,Urgent,Low
+N0462,C0802,Medical,Minor,Medium
+N0463,C0295,Food,Minor,Low
+N0464,C0312,Medical,Moderate need,Low
+N0465,C0385,Food,Urgent,High
+N0466,C0341,Financial,Urgent,High
+N0467,C0420,Shelter,Moderate need,Low
+N0468,C0379,Medical,Moderate need,Low
+N0469,C0253,Financial,Urgent,Medium
+N0470,C0369,Shelter,Urgent,Low
+N0471,C0815,Shelter,Urgent,High
+N0472,C0023,Shelter,Urgent,Medium
+N0473,C0139,Medical,Urgent,Low
+N0474,C0762,Shelter,Moderate need,Medium
+N0475,C0599,Food,Minor,High
+N0476,C0442,Food,Minor,Low
+N0477,C0221,Financial,Minor,Medium
+N0478,C0484,Financial,Moderate need,High
+N0479,C0022,Financial,Minor,Medium
+N0480,C0124,Shelter,Minor,High
+N0481,C0501,Medical,Moderate need,High
+N0482,C0579,Shelter,Moderate need,Medium
+N0483,C0786,Shelter,Minor,High
+N0484,C0853,Medical,Moderate need,High
+N0485,C0313,Medical,Minor,High
+N0486,C0622,Shelter,Minor,Low
+N0487,C0807,Medical,Moderate need,High
+N0488,C0027,Shelter,Minor,Medium
+N0489,C0732,Shelter,Moderate need,High
+N0490,C0378,Medical,Moderate need,Medium
+N0491,C0896,Shelter,Minor,Medium
+N0492,C0727,Shelter,Moderate need,Medium
+N0493,C0188,Financial,Urgent,Medium
+N0494,C0059,Food,Minor,Low
+N0495,C0311,Medical,Moderate need,Medium
+N0496,C0032,Shelter,Urgent,Medium
+N0497,C0722,Financial,Moderate need,High
+N0498,C0049,Financial,Moderate need,Medium
+N0499,C0632,Food,Minor,Low
+N0500,C0739,Financial,Minor,Medium
+N0501,C0788,Shelter,Urgent,High
+N0502,C0868,Financial,Minor,Low
+N0503,C0419,Food,Urgent,Low
+N0504,C0885,Food,Moderate need,High
+N0505,C0787,Financial,Urgent,Medium
+N0506,C0122,Financial,Moderate need,Medium
+N0507,C0484,Financial,Moderate need,Low
+N0508,C0823,Shelter,Moderate need,Medium
+N0509,C0798,Medical,Moderate need,High
+N0510,C0764,Food,Urgent,High
+N0511,C0051,Shelter,Minor,Low
+N0512,C0781,Food,Urgent,High
+N0513,C0485,Food,Moderate need,Low
+N0514,C0817,Financial,Moderate need,High
+N0515,C0436,Food,Urgent,High
+N0516,C0346,Financial,Urgent,Low
+N0517,C0217,Shelter,Minor,High
+N0518,C0791,Food,Urgent,High
+N0519,C0093,Shelter,Minor,Medium
+N0520,C0646,Shelter,Minor,Medium
+N0521,C0383,Shelter,Minor,Medium
+N0522,C0297,Food,Urgent,Low
+N0523,C0465,Shelter,Minor,Low
+N0524,C0255,Food,Urgent,Medium
+N0525,C0682,Shelter,Minor,Medium
+N0526,C0299,Financial,Minor,Medium
+N0527,C0148,Shelter,Minor,Low
+N0528,C0599,Food,Moderate need,Medium
+N0529,C0485,Financial,Moderate need,Low
+N0530,C0799,Food,Moderate need,Low
+N0531,C0373,Financial,Moderate need,High
+N0532,C0239,Financial,Minor,Medium
+N0533,C0627,Food,Urgent,High
+N0534,C0386,Shelter,Minor,Medium
+N0535,C0529,Food,Urgent,Low
+N0536,C0430,Shelter,Minor,High
+N0537,C0868,Medical,Moderate need,Medium
+N0538,C0700,Medical,Moderate need,Medium
+N0539,C0573,Food,Minor,High
+N0540,C0831,Financial,Urgent,Medium
+N0541,C0148,Financial,Moderate need,Medium
+N0542,C0350,Shelter,Urgent,Medium
+N0543,C0685,Financial,Moderate need,High
+N0544,C0288,Financial,Moderate need,High
+N0545,C0021,Financial,Moderate need,Low
+N0546,C0377,Medical,Moderate need,Medium
+N0547,C0091,Food,Urgent,Low
+N0548,C0429,Shelter,Moderate need,High
+N0549,C0076,Food,Moderate need,Medium
+N0550,C0054,Food,Urgent,Medium
+N0551,C0628,Shelter,Moderate need,Low
+N0552,C0581,Shelter,Urgent,Low
+N0553,C0213,Financial,Urgent,Medium
+N0554,C0077,Shelter,Urgent,Low
+N0555,C0313,Shelter,Urgent,Low
+N0556,C0523,Shelter,Minor,High
+N0557,C0835,Medical,Urgent,High
+N0558,C0511,Shelter,Minor,Medium
+N0559,C0545,Shelter,Minor,High
+N0560,C0654,Medical,Urgent,Medium
+N0561,C0704,Food,Moderate need,Low
+N0562,C0051,Shelter,Moderate need,High
+N0563,C0501,Shelter,Minor,Low
+N0564,C0004,Shelter,Urgent,Medium
+N0565,C0761,Food,Moderate need,Low
+N0566,C0411,Shelter,Moderate need,Medium
+N0567,C0627,Food,Urgent,Low
+N0568,C0493,Medical,Minor,High
+N0569,C0574,Shelter,Moderate need,Medium
+N0570,C0664,Medical,Moderate need,Low
+N0571,C0289,Financial,Moderate need,High
+N0572,C0138,Medical,Urgent,Medium
+N0573,C0449,Medical,Minor,High
+N0574,C0848,Shelter,Minor,Medium
+N0575,C0025,Shelter,Moderate need,Low
+N0576,C0247,Medical,Minor,Low
+N0577,C0708,Financial,Minor,Medium
+N0578,C0869,Medical,Moderate need,High
+N0579,C0343,Food,Urgent,Low
+N0580,C0100,Shelter,Moderate need,High
+N0581,C0502,Medical,Moderate need,Medium
+N0582,C0603,Medical,Minor,High
+N0583,C0556,Food,Urgent,High
+N0584,C0324,Medical,Minor,Low
+N0585,C0683,Food,Minor,Low
+N0586,C0258,Food,Urgent,Low
+N0587,C0511,Shelter,Minor,Low
+N0588,C0784,Medical,Urgent,High
+N0589,C0089,Food,Minor,Low
+N0590,C0491,Medical,Moderate need,Low
+N0591,C0261,Medical,Minor,High
+N0592,C0179,Shelter,Moderate need,Medium
+N0593,C0837,Financial,Urgent,Low
+N0594,C0179,Food,Moderate need,High
+N0595,C0046,Financial,Moderate need,Low
+N0596,C0638,Medical,Minor,High
+N0597,C0784,Financial,Minor,Low
+N0598,C0246,Financial,Minor,Medium
+N0599,C0782,Shelter,Minor,High
+N0600,C0147,Food,Moderate need,Medium
+N0601,C0637,Financial,Urgent,Medium
+N0602,C0012,Food,Urgent,Low
+N0603,C0056,Food,Moderate need,Medium
+N0604,C0853,Medical,Urgent,Medium
+N0605,C0301,Food,Minor,High
+N0606,C0088,Financial,Minor,High
+N0607,C0715,Food,Moderate need,High
+N0608,C0886,Shelter,Moderate need,Medium
+N0609,C0795,Shelter,Urgent,High
+N0610,C0166,Food,Minor,Medium
+N0611,C0009,Shelter,Moderate need,Low
+N0612,C0102,Shelter,Moderate need,Low
+N0613,C0177,Shelter,Moderate need,Medium
+N0614,C0504,Financial,Urgent,Medium
+N0615,C0639,Food,Urgent,Low
+N0616,C0040,Financial,Urgent,Medium
+N0617,C0394,Shelter,Moderate need,High
+N0618,C0427,Medical,Urgent,Medium
+N0619,C0010,Shelter,Minor,Low
+N0620,C0826,Food,Urgent,High
+N0621,C0645,Medical,Minor,Low
+N0622,C0854,Food,Moderate need,Low
+N0623,C0448,Medical,Moderate need,High
+N0624,C0535,Financial,Minor,Low
+N0625,C0782,Financial,Urgent,High
+N0626,C0558,Food,Moderate need,High
+N0627,C0157,Medical,Moderate need,High
+N0628,C0319,Food,Moderate need,Low
+N0629,C0644,Shelter,Minor,Medium
+N0630,C0367,Food,Urgent,High
+N0631,C0176,Financial,Urgent,Low
+N0632,C0416,Medical,Moderate need,Low
+N0633,C0797,Financial,Moderate need,High
+N0634,C0471,Shelter,Moderate need,Medium
+N0635,C0110,Medical,Urgent,Low
+N0636,C0630,Food,Moderate need,High
+N0637,C0770,Food,Minor,Low
+N0638,C0765,Medical,Moderate need,Low
+N0639,C0748,Medical,Minor,High
+N0640,C0674,Shelter,Urgent,Medium
+N0641,C0817,Food,Minor,High
+N0642,C0169,Financial,Moderate need,Low
+N0643,C0283,Food,Moderate need,Low
+N0644,C0011,Medical,Moderate need,Low
+N0645,C0396,Food,Minor,Medium
+N0646,C0192,Medical,Urgent,High
+N0647,C0689,Financial,Moderate need,Medium
+N0648,C0198,Medical,Moderate need,Low
+N0649,C0437,Shelter,Minor,Low
+N0650,C0896,Food,Moderate need,Low
+N0651,C0281,Shelter,Minor,Medium
+N0652,C0199,Financial,Minor,Low
+N0653,C0717,Medical,Moderate need,Low
+N0654,C0057,Food,Minor,Medium
+N0655,C0607,Shelter,Minor,High
+N0656,C0752,Financial,Urgent,High
+N0657,C0247,Food,Urgent,High
+N0658,C0504,Shelter,Moderate need,Low
+N0659,C0327,Financial,Moderate need,Medium
+N0660,C0471,Food,Minor,High
+N0661,C0883,Medical,Urgent,Medium
+N0662,C0645,Medical,Minor,Medium
+N0663,C0028,Medical,Urgent,Low
+N0664,C0343,Medical,Minor,High
+N0665,C0157,Shelter,Urgent,Medium
+N0666,C0048,Medical,Urgent,High
+N0667,C0127,Medical,Moderate need,High
+N0668,C0495,Medical,Urgent,High
+N0669,C0752,Medical,Urgent,Medium
+N0670,C0094,Medical,Urgent,Medium
+N0671,C0315,Food,Urgent,Low
+N0672,C0497,Medical,Minor,High
+N0673,C0635,Financial,Moderate need,Medium
+N0674,C0074,Medical,Urgent,Medium
+N0675,C0013,Shelter,Urgent,High
+N0676,C0162,Financial,Moderate need,Medium
+N0677,C0711,Food,Minor,Low
+N0678,C0199,Medical,Urgent,Medium
+N0679,C0080,Shelter,Minor,Medium
+N0680,C0775,Medical,Minor,High
+N0681,C0093,Shelter,Urgent,Low
+N0682,C0056,Shelter,Urgent,High
+N0683,C0483,Shelter,Urgent,Medium
+N0684,C0540,Medical,Urgent,High
+N0685,C0118,Financial,Minor,High
+N0686,C0559,Financial,Minor,High
+N0687,C0378,Medical,Moderate need,Medium
+N0688,C0842,Food,Urgent,High
+N0689,C0756,Medical,Minor,Medium
+N0690,C0454,Shelter,Moderate need,High
+N0691,C0128,Financial,Minor,Low
+N0692,C0072,Medical,Moderate need,High
+N0693,C0787,Shelter,Minor,Medium
+N0694,C0174,Financial,Urgent,Low
+N0695,C0580,Financial,Moderate need,High
+N0696,C0821,Financial,Moderate need,Low
+N0697,C0870,Shelter,Moderate need,High
+N0698,C0245,Financial,Urgent,Medium
+N0699,C0622,Shelter,Moderate need,Low
+N0700,C0114,Shelter,Minor,High
+N0701,C0536,Shelter,Moderate need,Medium
+N0702,C0852,Shelter,Urgent,High
+N0703,C0526,Food,Moderate need,Medium
+N0704,C0268,Medical,Moderate need,High
+N0705,C0843,Financial,Minor,Medium
+N0706,C0491,Medical,Moderate need,High
+N0707,C0683,Financial,Minor,High
+N0708,C0498,Medical,Minor,Low
+N0709,C0813,Medical,Moderate need,Medium
+N0710,C0245,Medical,Minor,High
+N0711,C0551,Food,Urgent,High
+N0712,C0230,Food,Urgent,Low
+N0713,C0857,Food,Urgent,Low
+N0714,C0709,Shelter,Minor,High
+N0715,C0297,Food,Minor,Medium
+N0716,C0016,Shelter,Urgent,High
+N0717,C0360,Shelter,Minor,Low
+N0718,C0432,Financial,Moderate need,High
+N0719,C0382,Financial,Minor,Low
+N0720,C0354,Medical,Moderate need,Low
+N0721,C0406,Shelter,Moderate need,Medium
+N0722,C0561,Food,Urgent,Low
+N0723,C0285,Medical,Moderate need,Medium
+N0724,C0282,Financial,Moderate need,Medium
+N0725,C0859,Medical,Urgent,High
+N0726,C0704,Food,Minor,Low
+N0727,C0176,Shelter,Moderate need,Medium
+N0728,C0736,Food,Minor,High
+N0729,C0441,Financial,Minor,High
+N0730,C0641,Shelter,Urgent,High
+N0731,C0293,Financial,Urgent,Low
+N0732,C0289,Shelter,Urgent,Medium
+N0733,C0164,Financial,Moderate need,High
+N0734,C0782,Medical,Urgent,Low
+N0735,C0262,Shelter,Urgent,Low
+N0736,C0371,Medical,Moderate need,Medium
+N0737,C0624,Shelter,Urgent,Medium
+N0738,C0544,Medical,Minor,High
+N0739,C0234,Shelter,Minor,High
+N0740,C0049,Medical,Moderate need,Low
+N0741,C0854,Food,Moderate need,Low
+N0742,C0844,Financial,Minor,Medium
+N0743,C0822,Financial,Minor,Medium
+N0744,C0297,Financial,Urgent,Low
+N0745,C0374,Food,Moderate need,High
+N0746,C0696,Medical,Urgent,Medium
+N0747,C0300,Medical,Moderate need,Low
+N0748,C0482,Financial,Moderate need,High
+N0749,C0702,Financial,Moderate need,High
+N0750,C0517,Shelter,Minor,Low
+N0751,C0403,Medical,Urgent,High
+N0752,C0353,Financial,Moderate need,High
+N0753,C0220,Medical,Moderate need,High
+N0754,C0221,Food,Urgent,Medium
+N0755,C0086,Financial,Moderate need,Low
+N0756,C0762,Financial,Minor,Medium
+N0757,C0770,Food,Moderate need,High
+N0758,C0460,Medical,Moderate need,Medium
+N0759,C0300,Shelter,Moderate need,Low
+N0760,C0083,Food,Moderate need,Low
+N0761,C0038,Medical,Moderate need,High
+N0762,C0672,Food,Moderate need,High
+N0763,C0540,Financial,Urgent,Low
+N0764,C0462,Medical,Minor,Low
+N0765,C0567,Financial,Moderate need,Medium
+N0766,C0760,Shelter,Urgent,Medium
+N0767,C0764,Medical,Urgent,Low
+N0768,C0560,Financial,Moderate need,Medium
+N0769,C0460,Food,Minor,Medium
+N0770,C0829,Medical,Minor,Medium
+N0771,C0489,Financial,Minor,Low
+N0772,C0638,Financial,Urgent,High
+N0773,C0338,Medical,Urgent,Low
+N0774,C0431,Food,Moderate need,Medium
+N0775,C0766,Shelter,Minor,High
+N0776,C0796,Food,Moderate need,High
+N0777,C0642,Food,Moderate need,High
+N0778,C0458,Financial,Minor,Medium
+N0779,C0843,Shelter,Moderate need,Low
+N0780,C0054,Medical,Moderate need,Low
+N0781,C0766,Financial,Urgent,High
+N0782,C0173,Food,Minor,Low
+N0783,C0160,Financial,Minor,Low
+N0784,C0759,Medical,Urgent,Medium
+N0785,C0187,Financial,Urgent,High
+N0786,C0824,Medical,Urgent,Low
+N0787,C0226,Medical,Urgent,High
+N0788,C0277,Medical,Minor,Medium
+N0789,C0671,Financial,Minor,High
+N0790,C0791,Shelter,Urgent,High
+N0791,C0094,Financial,Minor,Medium
+N0792,C0151,Shelter,Moderate need,High
+N0793,C0832,Financial,Minor,Low
+N0794,C0138,Medical,Moderate need,Low
+N0795,C0003,Medical,Moderate need,Low
+N0796,C0415,Medical,Minor,Medium
+N0797,C0623,Financial,Urgent,High
+N0798,C0256,Financial,Minor,High
+N0799,C0321,Medical,Moderate need,Low
+N0800,C0168,Medical,Moderate need,High
+N0801,C0158,Shelter,Urgent,Low
+N0802,C0859,Financial,Urgent,Low
+N0803,C0303,Food,Urgent,Low
+N0804,C0297,Food,Urgent,Medium
+N0805,C0170,Medical,Minor,Medium
+N0806,C0299,Financial,Moderate need,Low
+N0807,C0429,Financial,Urgent,Medium
+N0808,C0302,Food,Moderate need,Medium
+N0809,C0793,Financial,Minor,High
+N0810,C0515,Food,Minor,Low
+N0811,C0185,Shelter,Minor,High
+N0812,C0234,Medical,Moderate need,Low
+N0813,C0796,Shelter,Urgent,High
+N0814,C0408,Medical,Urgent,High
+N0815,C0866,Food,Minor,Low
+N0816,C0128,Shelter,Minor,High
+N0817,C0300,Financial,Urgent,High
+N0818,C0222,Financial,Moderate need,Medium
+N0819,C0110,Financial,Urgent,Low
+N0820,C0354,Food,Urgent,Low
+N0821,C0264,Shelter,Minor,Medium
+N0822,C0344,Food,Minor,Medium
+N0823,C0319,Medical,Minor,Low
+N0824,C0058,Shelter,Moderate need,Low
+N0825,C0827,Financial,Minor,Medium
+N0826,C0249,Food,Urgent,High
+N0827,C0586,Food,Minor,Low
+N0828,C0214,Medical,Moderate need,High
+N0829,C0593,Food,Urgent,Medium
+N0830,C0347,Medical,Moderate need,Low
+N0831,C0351,Shelter,Minor,Medium
+N0832,C0892,Food,Urgent,Medium
+N0833,C0197,Medical,Minor,High
+N0834,C0734,Medical,Urgent,High
+N0835,C0170,Financial,Moderate need,Medium
+N0836,C0690,Shelter,Minor,Low
+N0837,C0078,Medical,Urgent,Medium
+N0838,C0878,Medical,Minor,High
+N0839,C0190,Financial,Urgent,High
+N0840,C0179,Food,Urgent,Medium
+N0841,C0079,Financial,Moderate need,High
+N0842,C0154,Food,Minor,Low
+N0843,C0072,Medical,Minor,Medium
+N0844,C0900,Financial,Urgent,Low
+N0845,C0180,Shelter,Moderate need,High
+N0846,C0592,Shelter,Urgent,High
+N0847,C0686,Medical,Urgent,Low
+N0848,C0589,Shelter,Urgent,Low
+N0849,C0346,Financial,Moderate need,High
+N0850,C0103,Medical,Moderate need,High
+N0851,C0118,Financial,Moderate need,Low
+N0852,C0534,Medical,Urgent,Medium
+N0853,C0822,Financial,Moderate need,Low
+N0854,C0854,Financial,Minor,Low
+N0855,C0577,Medical,Moderate need,Low
+N0856,C0343,Shelter,Moderate need,Low
+N0857,C0496,Food,Minor,High
+N0858,C0496,Food,Moderate need,Low
+N0859,C0731,Shelter,Minor,Low
+N0860,C0428,Food,Moderate need,Medium
+N0861,C0679,Shelter,Urgent,Medium
+N0862,C0582,Medical,Minor,High
+N0863,C0455,Financial,Urgent,Low
+N0864,C0172,Financial,Urgent,Medium
+N0865,C0763,Shelter,Moderate need,Low
+N0866,C0703,Medical,Moderate need,High
+N0867,C0429,Food,Minor,Medium
+N0868,C0614,Financial,Urgent,Low
+N0869,C0086,Medical,Minor,Low
+N0870,C0798,Shelter,Moderate need,High
+N0871,C0257,Financial,Urgent,High
+N0872,C0719,Financial,Urgent,Low
+N0873,C0528,Food,Minor,Low
+N0874,C0567,Shelter,Urgent,High
+N0875,C0867,Medical,Urgent,High
+N0876,C0637,Food,Moderate need,Medium
+N0877,C0792,Financial,Urgent,Low
+N0878,C0052,Food,Minor,Low
+N0879,C0160,Food,Urgent,Medium
+N0880,C0192,Food,Urgent,High
+N0881,C0517,Medical,Minor,High
+N0882,C0209,Financial,Minor,Low
+N0883,C0161,Financial,Moderate need,Medium
+N0884,C0758,Food,Urgent,Medium
+N0885,C0639,Food,Moderate need,High
+N0886,C0781,Food,Moderate need,High
+N0887,C0095,Shelter,Moderate need,Low
+N0888,C0063,Shelter,Minor,Medium
+N0889,C0664,Food,Minor,High
+N0890,C0638,Shelter,Moderate need,Low
+N0891,C0867,Food,Urgent,Medium
+N0892,C0611,Food,Moderate need,Medium
+N0893,C0402,Food,Moderate need,High
+N0894,C0881,Medical,Minor,High
+N0895,C0017,Medical,Minor,Low
+N0896,C0808,Medical,Urgent,Medium
+N0897,C0164,Financial,Minor,Low
+N0898,C0885,Shelter,Minor,High
+N0899,C0729,Financial,Minor,High
+N0900,C0706,Shelter,Moderate need,Medium
+N0901,C0296,Medical,Minor,High
+N0902,C0069,Medical,Urgent,High
+N0903,C0890,Medical,Minor,High
+N0904,C0320,Shelter,Moderate need,Low
+N0905,C0210,Food,Moderate need,Low
+N0906,C0864,Medical,Urgent,High
+N0907,C0271,Medical,Moderate need,Medium
+N0908,C0747,Food,Urgent,Low
+N0909,C0761,Medical,Urgent,Medium
+N0910,C0797,Shelter,Moderate need,High
+N0911,C0835,Medical,Urgent,Low
+N0912,C0812,Financial,Urgent,Medium
+N0913,C0715,Food,Minor,Medium
+N0914,C0814,Financial,Urgent,High
+N0915,C0140,Food,Urgent,Medium
+N0916,C0850,Medical,Minor,Low
+N0917,C0040,Shelter,Minor,Medium
+N0918,C0643,Food,Moderate need,Low
+N0919,C0811,Medical,Minor,Low
+N0920,C0373,Shelter,Urgent,High
+N0921,C0078,Food,Urgent,High
+N0922,C0613,Medical,Minor,High
+N0923,C0305,Financial,Minor,High
+N0924,C0440,Food,Moderate need,Low
+N0925,C0026,Medical,Minor,Low
+N0926,C0765,Financial,Urgent,Low
+N0927,C0312,Medical,Urgent,Low
+N0928,C0746,Food,Urgent,High
+N0929,C0050,Medical,Minor,High
+N0930,C0709,Financial,Urgent,High
+N0931,C0390,Financial,Urgent,Low
+N0932,C0617,Medical,Moderate need,Low
+N0933,C0581,Financial,Minor,Low
+N0934,C0844,Shelter,Moderate need,Low
+N0935,C0343,Food,Moderate need,Medium
+N0936,C0149,Shelter,Urgent,High
+N0937,C0519,Financial,Minor,Low
+N0938,C0864,Medical,Moderate need,High
+N0939,C0612,Food,Urgent,High
+N0940,C0566,Financial,Urgent,Low
+N0941,C0242,Shelter,Minor,Low
+N0942,C0830,Food,Urgent,Low
+N0943,C0126,Shelter,Moderate need,Low
+N0944,C0338,Shelter,Minor,Low
+N0945,C0297,Shelter,Minor,High
+N0946,C0002,Medical,Moderate need,Medium
+N0947,C0300,Food,Minor,Medium
+N0948,C0701,Medical,Moderate need,Medium
+N0949,C0568,Medical,Moderate need,High
+N0950,C0603,Shelter,Urgent,Low
+N0951,C0764,Food,Urgent,Low
+N0952,C0242,Medical,Moderate need,Medium
+N0953,C0181,Shelter,Urgent,Low
+N0954,C0426,Financial,Moderate need,High
+N0955,C0695,Financial,Moderate need,Medium
+N0956,C0023,Food,Minor,High
+N0957,C0886,Medical,Urgent,Low
+N0958,C0139,Financial,Moderate need,Medium
+N0959,C0514,Financial,Minor,Medium
+N0960,C0797,Shelter,Minor,Low
+N0961,C0467,Food,Moderate need,High
+N0962,C0288,Financial,Urgent,High
+N0963,C0616,Financial,Moderate need,Low
+N0964,C0515,Financial,Moderate need,High
+N0965,C0372,Financial,Urgent,High
+N0966,C0307,Medical,Moderate need,Low
+N0967,C0625,Financial,Urgent,Low
+N0968,C0039,Medical,Urgent,Medium
+N0969,C0097,Shelter,Minor,Low
+N0970,C0590,Shelter,Urgent,Medium
+N0971,C0700,Financial,Minor,Low
+N0972,C0157,Financial,Minor,Low
+N0973,C0125,Food,Urgent,Low
+N0974,C0210,Shelter,Minor,Low
+N0975,C0138,Food,Moderate need,Low
+N0976,C0208,Financial,Urgent,Medium
+N0977,C0142,Medical,Urgent,High
+N0978,C0242,Medical,Moderate need,Medium
+N0979,C0073,Financial,Minor,Low
+N0980,C0660,Financial,Moderate need,Medium
+N0981,C0246,Medical,Minor,Low
+N0982,C0545,Food,Minor,High
+N0983,C0013,Financial,Urgent,Medium
+N0984,C0085,Financial,Moderate need,Low
+N0985,C0770,Shelter,Urgent,Low
+N0986,C0217,Financial,Moderate need,High
+N0987,C0388,Medical,Urgent,High
+N0988,C0030,Medical,Urgent,High
+N0989,C0405,Food,Moderate need,Medium
+N0990,C0084,Medical,Minor,High
+N0991,C0681,Shelter,Minor,Low
+N0992,C0643,Shelter,Urgent,High
+N0993,C0395,Financial,Moderate need,Low
+N0994,C0695,Shelter,Urgent,High
+N0995,C0246,Medical,Minor,Medium
+N0996,C0572,Medical,Minor,High
+N0997,C0796,Shelter,Moderate need,Low
+N0998,C0256,Medical,Urgent,Low
+N0999,C0633,Food,Urgent,Medium
+N1000,C0343,Medical,Moderate need,High
+N1001,C0812,Shelter,Urgent,High
+N1002,C0269,Shelter,Urgent,High
+N1003,C0164,Medical,Moderate need,Medium
+N1004,C0642,Food,Urgent,High
+N1005,C0331,Shelter,Moderate need,Medium
+N1006,C0445,Financial,Moderate need,Low
+N1007,C0592,Medical,Urgent,High
+N1008,C0034,Shelter,Urgent,High
+N1009,C0524,Food,Moderate need,Medium
+N1010,C0407,Financial,Urgent,High
+N1011,C0784,Shelter,Urgent,Low
+N1012,C0608,Shelter,Urgent,High
+N1013,C0228,Financial,Moderate need,Medium
+N1014,C0190,Shelter,Moderate need,High
+N1015,C0414,Food,Urgent,High
+N1016,C0555,Financial,Minor,High
+N1017,C0826,Food,Minor,Medium
+N1018,C0625,Shelter,Urgent,Medium
+N1019,C0196,Financial,Moderate need,Low
+N1020,C0689,Food,Moderate need,Medium
+N1021,C0806,Shelter,Minor,Low
+N1022,C0561,Food,Urgent,Low
+N1023,C0351,Food,Moderate need,Low
+N1024,C0305,Medical,Moderate need,Medium
+N1025,C0143,Medical,Minor,High
+N1026,C0692,Shelter,Urgent,High
+N1027,C0260,Food,Minor,High
+N1028,C0849,Medical,Minor,Low
+N1029,C0774,Shelter,Urgent,Medium
+N1030,C0400,Shelter,Moderate need,Low
+N1031,C0472,Shelter,Urgent,High
+N1032,C0103,Shelter,Urgent,High
+N1033,C0073,Food,Moderate need,Medium
+N1034,C0805,Medical,Moderate need,Medium
+N1035,C0484,Shelter,Moderate need,Medium
+N1036,C0208,Food,Minor,High
+N1037,C0313,Food,Moderate need,Medium
+N1038,C0623,Food,Minor,Low
+N1039,C0052,Medical,Moderate need,High
+N1040,C0673,Financial,Moderate need,Low
+N1041,C0896,Financial,Minor,High
+N1042,C0016,Food,Moderate need,Low
+N1043,C0102,Shelter,Moderate need,Medium
+N1044,C0068,Shelter,Moderate need,Medium
+N1045,C0028,Shelter,Moderate need,High
+N1046,C0285,Food,Minor,Medium
+N1047,C0715,Food,Minor,High
+N1048,C0743,Shelter,Moderate need,Low
+N1049,C0365,Shelter,Urgent,Medium
+N1050,C0173,Food,Minor,Medium
+N1051,C0491,Medical,Moderate need,High
+N1052,C0585,Medical,Moderate need,High
+N1053,C0744,Food,Minor,High
+N1054,C0527,Food,Minor,Low
+N1055,C0892,Medical,Urgent,Medium
+N1056,C0317,Food,Moderate need,High
+N1057,C0653,Financial,Moderate need,Medium
+N1058,C0067,Financial,Urgent,High
+N1059,C0421,Medical,Minor,Low
+N1060,C0483,Food,Moderate need,Medium
+N1061,C0439,Medical,Moderate need,Low
+N1062,C0487,Food,Minor,High
+N1063,C0148,Medical,Moderate need,Low
+N1064,C0155,Medical,Minor,High
+N1065,C0742,Medical,Minor,Low
+N1066,C0292,Medical,Urgent,High
+N1067,C0225,Shelter,Urgent,High
+N1068,C0862,Food,Urgent,Medium
+N1069,C0768,Food,Moderate need,Low
+N1070,C0599,Food,Minor,Medium
+N1071,C0203,Medical,Moderate need,Low
+N1072,C0898,Shelter,Urgent,High
+N1073,C0704,Food,Moderate need,High
+N1074,C0331,Medical,Minor,Low
+N1075,C0419,Food,Moderate need,Medium
+N1076,C0139,Medical,Minor,Low
+N1077,C0422,Medical,Minor,High
+N1078,C0561,Food,Urgent,High
+N1079,C0238,Medical,Moderate need,High
+N1080,C0009,Food,Minor,Low
+N1081,C0352,Food,Urgent,Low
+N1082,C0029,Food,Minor,Medium
+N1083,C0821,Medical,Moderate need,High
+N1084,C0427,Financial,Moderate need,Low
+N1085,C0425,Financial,Urgent,Medium
+N1086,C0153,Medical,Urgent,Low
+N1087,C0106,Shelter,Minor,High
+N1088,C0570,Financial,Minor,Medium
+N1089,C0631,Medical,Moderate need,Medium
+N1090,C0614,Financial,Minor,Low
+N1091,C0012,Financial,Minor,Medium
+N1092,C0773,Shelter,Urgent,Low
+N1093,C0499,Shelter,Moderate need,Medium
+N1094,C0891,Food,Moderate need,Medium
+N1095,C0064,Food,Minor,High
+N1096,C0620,Financial,Urgent,Medium
+N1097,C0418,Shelter,Urgent,High
+N1098,C0858,Medical,Minor,Low
+N1099,C0019,Shelter,Moderate need,Low
+N1100,C0599,Financial,Moderate need,High
+N1101,C0852,Food,Minor,Low
+N1102,C0516,Shelter,Minor,Medium
+N1103,C0708,Food,Moderate need,Medium
+N1104,C0620,Financial,Minor,Low
+N1105,C0244,Financial,Urgent,High
+N1106,C0577,Medical,Minor,High
+N1107,C0094,Food,Moderate need,High
+N1108,C0289,Financial,Urgent,Medium
+N1109,C0512,Financial,Minor,Medium
+N1110,C0036,Medical,Moderate need,High
+N1111,C0228,Shelter,Urgent,Low
+N1112,C0378,Financial,Urgent,Medium
+N1113,C0686,Food,Minor,High
+N1114,C0472,Financial,Minor,High
+N1115,C0457,Financial,Minor,High
+N1116,C0155,Food,Moderate need,High
+N1117,C0166,Financial,Minor,Low
+N1118,C0856,Financial,Minor,Medium
+N1119,C0124,Shelter,Moderate need,Low
+N1120,C0131,Medical,Moderate need,Low
+N1121,C0365,Financial,Minor,Medium
+N1122,C0603,Medical,Minor,High
+N1123,C0897,Food,Urgent,Medium
+N1124,C0675,Financial,Urgent,Low
+N1125,C0316,Shelter,Minor,High
+N1126,C0284,Food,Urgent,Low
+N1127,C0335,Medical,Moderate need,High
+N1128,C0222,Financial,Urgent,High
+N1129,C0799,Financial,Urgent,High
+N1130,C0559,Shelter,Moderate need,High
+N1131,C0857,Medical,Minor,Medium
+N1132,C0140,Food,Moderate need,Low
+N1133,C0467,Shelter,Moderate need,Low
+N1134,C0112,Food,Moderate need,Low
+N1135,C0629,Medical,Minor,Low
+N1136,C0191,Shelter,Urgent,Low
+N1137,C0308,Food,Minor,High
+N1138,C0716,Food,Minor,High
+N1139,C0490,Food,Urgent,Medium
+N1140,C0511,Financial,Minor,Medium
+N1141,C0426,Food,Urgent,Low
+N1142,C0692,Financial,Moderate need,High
+N1143,C0455,Financial,Urgent,Low
+N1144,C0870,Medical,Moderate need,Low
+N1145,C0382,Shelter,Minor,Low
+N1146,C0333,Medical,Urgent,Low
+N1147,C0571,Medical,Minor,Medium
+N1148,C0722,Food,Urgent,Low
+N1149,C0051,Financial,Minor,Low
+N1150,C0235,Medical,Minor,Low
+N1151,C0467,Shelter,Urgent,High
+N1152,C0683,Food,Moderate need,Medium
+N1153,C0252,Financial,Urgent,High
+N1154,C0668,Medical,Minor,Medium
+N1155,C0125,Shelter,Minor,High
+N1156,C0307,Medical,Urgent,High
+N1157,C0370,Shelter,Urgent,Low
+N1158,C0385,Medical,Minor,Low
+N1159,C0171,Financial,Urgent,Medium
+N1160,C0193,Financial,Minor,Low
+N1161,C0409,Shelter,Moderate need,Low
+N1162,C0060,Medical,Urgent,Low
+N1163,C0029,Medical,Urgent,Medium
+N1164,C0873,Medical,Minor,High
+N1165,C0005,Medical,Moderate need,Low
+N1166,C0369,Shelter,Urgent,High
+N1167,C0871,Financial,Urgent,Medium
+N1168,C0211,Medical,Moderate need,Medium
+N1169,C0649,Shelter,Minor,High
+N1170,C0677,Medical,Urgent,Low
+N1171,C0232,Shelter,Urgent,Medium
+N1172,C0071,Financial,Minor,High
+N1173,C0302,Shelter,Minor,High
+N1174,C0264,Medical,Urgent,Low
+N1175,C0368,Shelter,Minor,Low
+N1176,C0827,Medical,Moderate need,High
+N1177,C0503,Shelter,Moderate need,High
+N1178,C0543,Shelter,Minor,Medium
+N1179,C0819,Food,Minor,Medium
+N1180,C0819,Financial,Moderate need,Low
+N1181,C0725,Food,Urgent,Medium
+N1182,C0606,Medical,Moderate need,High
+N1183,C0658,Food,Moderate need,Low
+N1184,C0798,Shelter,Minor,Medium
+N1185,C0486,Financial,Moderate need,Low
+N1186,C0645,Shelter,Moderate need,Low
+N1187,C0762,Shelter,Urgent,Medium
+N1188,C0364,Financial,Urgent,Low
+N1189,C0408,Shelter,Minor,Low
+N1190,C0383,Food,Minor,Medium
+N1191,C0773,Shelter,Urgent,High
+N1192,C0381,Shelter,Moderate need,Low
+N1193,C0647,Shelter,Minor,Low
+N1194,C0829,Medical,Moderate need,High
+N1195,C0243,Financial,Minor,Medium
+N1196,C0493,Food,Urgent,High
+N1197,C0888,Food,Minor,Low
+N1198,C0452,Financial,Minor,Medium
+N1199,C0379,Medical,Minor,Medium
+N1200,C0283,Shelter,Urgent,High
+N1201,C0772,Shelter,Urgent,Low
+N1202,C0065,Medical,Urgent,Medium
+N1203,C0722,Financial,Minor,Medium
+N1204,C0181,Food,Minor,High
+N1205,C0816,Food,Moderate need,Medium
+N1206,C0434,Shelter,Urgent,High
+N1207,C0879,Food,Urgent,Low
+N1208,C0144,Food,Minor,Medium
+N1209,C0339,Medical,Minor,High
+N1210,C0827,Financial,Minor,High
+N1211,C0064,Shelter,Moderate need,Low
+N1212,C0098,Food,Urgent,Medium
+N1213,C0167,Shelter,Moderate need,Low
+N1214,C0185,Medical,Urgent,High
+N1215,C0086,Financial,Minor,Medium
+N1216,C0874,Shelter,Moderate need,High
+N1217,C0839,Food,Urgent,Low
+N1218,C0303,Financial,Moderate need,Medium
+N1219,C0664,Food,Minor,Medium
+N1220,C0300,Medical,Moderate need,Medium
+N1221,C0856,Food,Urgent,High
+N1222,C0253,Financial,Minor,High
+N1223,C0576,Shelter,Moderate need,Low
+N1224,C0864,Shelter,Urgent,Low
+N1225,C0398,Shelter,Moderate need,Medium
+N1226,C0197,Medical,Moderate need,Medium
+N1227,C0667,Food,Minor,Medium
+N1228,C0391,Medical,Moderate need,High
+N1229,C0015,Medical,Moderate need,Low
+N1230,C0709,Food,Urgent,Medium
+N1231,C0296,Financial,Urgent,Medium
+N1232,C0858,Medical,Minor,Low
+N1233,C0608,Food,Urgent,Medium
+N1234,C0415,Financial,Urgent,High
+N1235,C0565,Shelter,Urgent,High
+N1236,C0306,Food,Urgent,Medium
+N1237,C0873,Shelter,Moderate need,High
+N1238,C0475,Medical,Urgent,Medium
+N1239,C0534,Shelter,Moderate need,Medium
+N1240,C0376,Financial,Moderate need,Medium
+N1241,C0538,Financial,Minor,Medium
+N1242,C0556,Food,Minor,Low
+N1243,C0142,Food,Urgent,Low
+N1244,C0353,Medical,Moderate need,Low
+N1245,C0106,Financial,Urgent,Low
+N1246,C0230,Food,Moderate need,High
+N1247,C0238,Medical,Urgent,Low
+N1248,C0243,Shelter,Urgent,High
+N1249,C0087,Medical,Urgent,Medium
+N1250,C0092,Food,Minor,Low
+N1251,C0680,Shelter,Minor,Low
+N1252,C0447,Shelter,Minor,Medium
+N1253,C0226,Shelter,Moderate need,High
+N1254,C0111,Food,Urgent,High
+N1255,C0858,Shelter,Urgent,High
+N1256,C0884,Medical,Minor,Low
+N1257,C0890,Medical,Urgent,Medium
+N1258,C0788,Food,Moderate need,Low
+N1259,C0670,Financial,Moderate need,Low
+N1260,C0612,Medical,Minor,High
+N1261,C0225,Food,Urgent,High
+N1262,C0748,Medical,Moderate need,Low
+N1263,C0399,Medical,Moderate need,Low
+N1264,C0265,Shelter,Minor,High
+N1265,C0802,Shelter,Moderate need,High
+N1266,C0018,Financial,Moderate need,Low
+N1267,C0124,Medical,Moderate need,High
+N1268,C0817,Shelter,Moderate need,Low
+N1269,C0476,Financial,Moderate need,Medium
+N1270,C0146,Medical,Moderate need,Medium
+N1271,C0208,Financial,Minor,Low
+N1272,C0214,Financial,Minor,High
+N1273,C0348,Financial,Moderate need,Medium
+N1274,C0294,Financial,Moderate need,Low
+N1275,C0812,Medical,Moderate need,Medium
+N1276,C0021,Shelter,Urgent,Low
+N1277,C0044,Food,Urgent,Medium
+N1278,C0095,Medical,Minor,Low
+N1279,C0321,Food,Minor,Low
+N1280,C0461,Food,Urgent,High
+N1281,C0276,Financial,Moderate need,Medium
+N1282,C0115,Financial,Minor,High
+N1283,C0563,Food,Minor,Low
+N1284,C0786,Medical,Urgent,Low
+N1285,C0421,Financial,Urgent,Medium
+N1286,C0132,Shelter,Urgent,Medium
+N1287,C0793,Financial,Moderate need,Medium
+N1288,C0844,Food,Urgent,Medium
+N1289,C0196,Food,Urgent,High
+N1290,C0514,Financial,Minor,Low
+N1291,C0054,Medical,Moderate need,Low
+N1292,C0780,Financial,Urgent,High
+N1293,C0376,Shelter,Minor,Low
+N1294,C0335,Food,Minor,Low
+N1295,C0843,Financial,Minor,High
+N1296,C0167,Financial,Moderate need,Low
+N1297,C0868,Medical,Minor,Medium
+N1298,C0350,Food,Moderate need,High
+N1299,C0344,Medical,Urgent,Low
+N1300,C0297,Medical,Urgent,High
+N1301,C0002,Financial,Moderate need,Low
+N1302,C0271,Financial,Moderate need,Low
+N1303,C0459,Financial,Urgent,High
+N1304,C0348,Shelter,Urgent,High
+N1305,C0578,Medical,Minor,Low
+N1306,C0499,Shelter,Urgent,Low
+N1307,C0679,Food,Moderate need,Medium
+N1308,C0597,Financial,Minor,High
+N1309,C0295,Food,Urgent,High
+N1310,C0564,Medical,Urgent,High
+N1311,C0815,Food,Urgent,Medium
+N1312,C0603,Shelter,Urgent,Medium
+N1313,C0202,Food,Minor,Medium
+N1314,C0407,Shelter,Moderate need,Medium
+N1315,C0397,Food,Minor,High
+N1316,C0852,Medical,Minor,Low
+N1317,C0455,Financial,Urgent,High
+N1318,C0782,Financial,Minor,High
+N1319,C0116,Financial,Moderate need,Medium
+N1320,C0280,Medical,Moderate need,Medium
+N1321,C0168,Food,Urgent,Low
+N1322,C0309,Medical,Urgent,Medium
+N1323,C0852,Financial,Urgent,Low
+N1324,C0742,Financial,Minor,High
+N1325,C0385,Medical,Urgent,Medium
+N1326,C0104,Medical,Minor,Medium
+N1327,C0803,Food,Minor,Low
+N1328,C0875,Financial,Urgent,Medium
+N1329,C0315,Financial,Minor,High
+N1330,C0518,Financial,Urgent,Medium
+N1331,C0430,Financial,Moderate need,Medium
+N1332,C0374,Food,Moderate need,Medium
+N1333,C0835,Food,Moderate need,Low
+N1334,C0898,Shelter,Urgent,Medium
+N1335,C0764,Financial,Moderate need,Medium
+N1336,C0393,Shelter,Minor,Low
+N1337,C0218,Shelter,Urgent,Low
+N1338,C0255,Financial,Minor,Low
+N1339,C0674,Medical,Moderate need,Medium
+N1340,C0758,Food,Urgent,Medium
+N1341,C0324,Medical,Minor,High
+N1342,C0056,Financial,Moderate need,High
+N1343,C0088,Shelter,Urgent,High
+N1344,C0339,Financial,Urgent,Medium
+N1345,C0221,Shelter,Urgent,High
+N1346,C0573,Food,Minor,Medium
+N1347,C0639,Food,Urgent,Low
+N1348,C0885,Medical,Urgent,Medium
+N1349,C0889,Food,Moderate need,Low
+N1350,C0188,Shelter,Urgent,Medium
+N1351,C0707,Shelter,Urgent,High
+N1352,C0242,Food,Moderate need,High
+N1353,C0200,Shelter,Moderate need,Medium
+N1354,C0110,Shelter,Urgent,Low
+N1355,C0712,Financial,Minor,High
+N1356,C0158,Shelter,Urgent,High
+N1357,C0880,Shelter,Moderate need,Medium
+N1358,C0231,Food,Urgent,High
+N1359,C0459,Food,Minor,Low
+N1360,C0458,Shelter,Urgent,Low
+N1361,C0864,Shelter,Moderate need,Medium
+N1362,C0282,Medical,Urgent,High
+N1363,C0787,Financial,Moderate need,Low
+N1364,C0449,Food,Moderate need,Medium
+N1365,C0435,Medical,Urgent,High
+N1366,C0597,Food,Urgent,Medium
+N1367,C0279,Financial,Urgent,Low
+N1368,C0126,Food,Urgent,Low
+N1369,C0008,Financial,Moderate need,High
+N1370,C0273,Food,Urgent,Low
+N1371,C0679,Food,Moderate need,High
+N1372,C0339,Shelter,Urgent,Medium
+N1373,C0540,Financial,Minor,Low
+N1374,C0269,Financial,Moderate need,Medium
+N1375,C0143,Financial,Minor,High
+N1376,C0863,Shelter,Urgent,Low
+N1377,C0242,Shelter,Moderate need,Medium
+N1378,C0895,Financial,Urgent,Medium
+N1379,C0035,Shelter,Moderate need,High
+N1380,C0719,Shelter,Minor,Medium
+N1381,C0500,Food,Minor,Low
+N1382,C0601,Shelter,Urgent,Low
+N1383,C0700,Shelter,Moderate need,High
+N1384,C0762,Food,Moderate need,Medium
+N1385,C0270,Medical,Urgent,Medium
+N1386,C0284,Financial,Minor,High
+N1387,C0789,Medical,Moderate need,Medium
+N1388,C0810,Food,Minor,High
+N1389,C0474,Shelter,Minor,Low
+N1390,C0454,Food,Urgent,High
+N1391,C0622,Financial,Minor,Medium
+N1392,C0819,Financial,Minor,High
+N1393,C0576,Medical,Moderate need,Medium
+N1394,C0311,Shelter,Urgent,High
+N1395,C0177,Financial,Minor,Low
+N1396,C0839,Medical,Moderate need,High
+N1397,C0212,Food,Urgent,Low
+N1398,C0074,Financial,Minor,Medium
+N1399,C0838,Shelter,Minor,Medium
+N1400,C0129,Medical,Urgent,Medium
+N1401,C0501,Food,Moderate need,High
+N1402,C0789,Food,Urgent,Low
+N1403,C0885,Medical,Minor,High
+N1404,C0035,Medical,Minor,Low
+N1405,C0587,Medical,Minor,Low
+N1406,C0632,Financial,Moderate need,Low
+N1407,C0673,Shelter,Moderate need,Low
+N1408,C0279,Shelter,Minor,Medium
+N1409,C0265,Financial,Minor,Low
+N1410,C0352,Financial,Minor,High
+N1411,C0213,Food,Moderate need,Low
+N1412,C0302,Medical,Minor,Low
+N1413,C0681,Shelter,Moderate need,High
+N1414,C0325,Medical,Minor,Low
+N1415,C0625,Shelter,Minor,High
+N1416,C0613,Medical,Minor,Medium
+N1417,C0187,Financial,Moderate need,Low
+N1418,C0100,Shelter,Minor,Medium
+N1419,C0176,Shelter,Moderate need,Low
+N1420,C0441,Financial,Minor,High
+N1421,C0694,Medical,Moderate need,Medium
+N1422,C0876,Food,Minor,Low
+N1423,C0644,Food,Minor,Low
+N1424,C0202,Shelter,Moderate need,High
+N1425,C0867,Shelter,Moderate need,Medium
+N1426,C0125,Medical,Minor,Low
+N1427,C0116,Food,Minor,High
+N1428,C0053,Food,Moderate need,Medium
+N1429,C0227,Financial,Moderate need,High
+N1430,C0058,Medical,Moderate need,Medium
+N1431,C0785,Financial,Minor,Medium
+N1432,C0746,Financial,Urgent,Medium
+N1433,C0776,Financial,Moderate need,Medium
+N1434,C0833,Financial,Minor,Medium
+N1435,C0327,Food,Urgent,Low
+N1436,C0462,Food,Urgent,Medium
+N1437,C0349,Shelter,Urgent,Low
+N1438,C0652,Food,Urgent,Medium
+N1439,C0297,Medical,Moderate need,Medium
+N1440,C0737,Food,Moderate need,Low
+N1441,C0013,Shelter,Urgent,High
+N1442,C0235,Financial,Minor,Medium
+N1443,C0511,Food,Minor,High
+N1444,C0436,Shelter,Urgent,High
+N1445,C0417,Medical,Moderate need,Medium
+N1446,C0178,Food,Minor,High
+N1447,C0804,Food,Moderate need,Medium
+N1448,C0334,Food,Moderate need,Low
+N1449,C0781,Medical,Moderate need,Low
+N1450,C0578,Food,Urgent,High
+N1451,C0508,Shelter,Minor,Medium
+N1452,C0103,Shelter,Urgent,High
+N1453,C0867,Financial,Minor,High
+N1454,C0670,Financial,Moderate need,Low
+N1455,C0408,Financial,Minor,Low
+N1456,C0807,Medical,Moderate need,Medium
+N1457,C0318,Financial,Minor,Low
+N1458,C0464,Medical,Minor,High
+N1459,C0037,Medical,Minor,Medium
+N1460,C0800,Medical,Moderate need,High
+N1461,C0722,Food,Urgent,High
+N1462,C0112,Shelter,Urgent,High
+N1463,C0321,Financial,Urgent,Medium
+N1464,C0440,Medical,Minor,Medium
+N1465,C0522,Financial,Moderate need,Medium
+N1466,C0196,Shelter,Moderate need,Medium
+N1467,C0753,Financial,Moderate need,High
+N1468,C0247,Shelter,Urgent,Medium
+N1469,C0724,Shelter,Moderate need,Low
+N1470,C0280,Financial,Minor,High
+N1471,C0712,Financial,Urgent,Low
+N1472,C0060,Medical,Minor,Low
+N1473,C0318,Food,Urgent,Low
+N1474,C0207,Financial,Minor,Low
+N1475,C0845,Food,Minor,Low
+N1476,C0286,Shelter,Urgent,High
+N1477,C0485,Food,Minor,Low
+N1478,C0529,Shelter,Urgent,Medium
+N1479,C0864,Shelter,Moderate need,Medium
+N1480,C0062,Shelter,Minor,High
+N1481,C0722,Financial,Urgent,Low
+N1482,C0455,Financial,Urgent,High
+N1483,C0483,Shelter,Urgent,High
+N1484,C0310,Financial,Urgent,High
+N1485,C0662,Financial,Minor,Medium
+N1486,C0502,Medical,Minor,High
+N1487,C0021,Food,Moderate need,Low
+N1488,C0220,Financial,Minor,Low
+N1489,C0677,Shelter,Moderate need,Low
+N1490,C0621,Food,Minor,Medium
+N1491,C0225,Shelter,Urgent,Medium
+N1492,C0429,Financial,Minor,Medium
+N1493,C0509,Food,Minor,Low
+N1494,C0619,Food,Minor,Low
+N1495,C0228,Food,Minor,High
+N1496,C0353,Shelter,Minor,Medium
+N1497,C0609,Food,Moderate need,Low
+N1498,C0790,Medical,Urgent,Medium
+N1499,C0670,Food,Urgent,Low
+N1500,C0789,Medical,Minor,High
+N1501,C0234,Food,Moderate need,Medium
+N1502,C0272,Shelter,Minor,Low
+N1503,C0175,Financial,Minor,High
+N1504,C0770,Shelter,Urgent,High
+N1505,C0415,Food,Minor,High
+N1506,C0762,Food,Moderate need,High
+N1507,C0888,Shelter,Moderate need,Medium
+N1508,C0306,Food,Minor,Medium
+N1509,C0108,Medical,Moderate need,Medium
+N1510,C0052,Food,Moderate need,Medium
+N1511,C0772,Medical,Urgent,Medium
+N1512,C0673,Shelter,Moderate need,Low
+N1513,C0141,Financial,Urgent,Medium
+N1514,C0093,Financial,Moderate need,High
+N1515,C0579,Shelter,Urgent,Medium
+N1516,C0660,Financial,Moderate need,Medium
+N1517,C0192,Financial,Urgent,High
+N1518,C0106,Financial,Moderate need,Medium
+N1519,C0598,Medical,Moderate need,High
+N1520,C0559,Financial,Minor,High
+N1521,C0220,Medical,Minor,Low
+N1522,C0707,Financial,Urgent,Medium
+N1523,C0358,Shelter,Urgent,Medium
+N1524,C0504,Shelter,Moderate need,Low
+N1525,C0840,Medical,Moderate need,High
+N1526,C0083,Food,Urgent,High
+N1527,C0788,Medical,Minor,Medium
+N1528,C0372,Financial,Moderate need,Low
+N1529,C0397,Shelter,Moderate need,Medium
+N1530,C0569,Shelter,Urgent,Medium
+N1531,C0879,Financial,Urgent,High
+N1532,C0387,Shelter,Minor,Low
+N1533,C0297,Shelter,Minor,Medium
+N1534,C0195,Financial,Urgent,Medium
+N1535,C0044,Medical,Minor,High
+N1536,C0839,Shelter,Urgent,Medium
+N1537,C0856,Food,Minor,Low
+N1538,C0233,Shelter,Urgent,High
+N1539,C0788,Shelter,Minor,High
+N1540,C0767,Shelter,Urgent,Low
+N1541,C0875,Food,Minor,Medium
+N1542,C0597,Financial,Urgent,Medium
+N1543,C0306,Shelter,Minor,Low
+N1544,C0416,Food,Urgent,Medium
+N1545,C0639,Shelter,Urgent,Medium
+N1546,C0508,Shelter,Urgent,Medium
+N1547,C0848,Medical,Minor,Low
+N1548,C0267,Financial,Minor,Low
+N1549,C0072,Food,Urgent,Medium
+N1550,C0610,Shelter,Urgent,Medium
+N1551,C0828,Medical,Moderate need,High
+N1552,C0457,Financial,Moderate need,Low
+N1553,C0378,Medical,Minor,Low
+N1554,C0898,Food,Moderate need,High
+N1555,C0474,Financial,Urgent,Low
+N1556,C0230,Shelter,Minor,High
+N1557,C0479,Food,Minor,High
+N1558,C0425,Shelter,Urgent,Low
+N1559,C0671,Food,Minor,Low
+N1560,C0471,Financial,Minor,Low
+N1561,C0192,Shelter,Moderate need,Medium
+N1562,C0757,Food,Moderate need,High
+N1563,C0228,Financial,Minor,Low
+N1564,C0635,Financial,Urgent,High
+N1565,C0062,Medical,Minor,Medium
+N1566,C0604,Food,Minor,Medium
+N1567,C0399,Shelter,Minor,Low
+N1568,C0268,Medical,Moderate need,Low
+N1569,C0036,Medical,Moderate need,High
+N1570,C0828,Medical,Moderate need,High
+N1571,C0785,Financial,Moderate need,Low
+N1572,C0802,Food,Moderate need,Medium
+N1573,C0563,Medical,Urgent,Medium
+N1574,C0659,Food,Minor,Low
+N1575,C0877,Shelter,Moderate need,High
+N1576,C0691,Medical,Urgent,Medium
+N1577,C0150,Food,Urgent,Low
+N1578,C0348,Financial,Urgent,Low
+N1579,C0711,Shelter,Urgent,Medium
+N1580,C0814,Shelter,Moderate need,High
+N1581,C0866,Medical,Moderate need,Low
+N1582,C0050,Financial,Urgent,High
+N1583,C0818,Financial,Moderate need,Low
+N1584,C0113,Shelter,Minor,Medium
+N1585,C0419,Medical,Moderate need,High
+N1586,C0879,Shelter,Urgent,Low
+N1587,C0839,Food,Urgent,High
+N1588,C0311,Food,Urgent,Medium
+N1589,C0056,Food,Minor,High
+N1590,C0258,Shelter,Minor,Medium
+N1591,C0012,Medical,Urgent,Low
+N1592,C0693,Food,Urgent,High
+N1593,C0328,Financial,Urgent,Low
+N1594,C0430,Food,Minor,Medium
+N1595,C0362,Financial,Urgent,Low
+N1596,C0176,Medical,Moderate need,Medium
+N1597,C0235,Financial,Urgent,Low
+N1598,C0575,Financial,Urgent,Medium
+N1599,C0154,Financial,Urgent,Medium
+N1600,C0392,Shelter,Moderate need,Medium
+N1601,C0358,Financial,Minor,Low
+N1602,C0658,Food,Minor,High
+N1603,C0894,Food,Minor,Low
+N1604,C0216,Shelter,Urgent,Low
+N1605,C0635,Shelter,Moderate need,High
+N1606,C0602,Food,Minor,Low
+N1607,C0749,Food,Urgent,Low
+N1608,C0293,Food,Urgent,High
+N1609,C0589,Shelter,Minor,Low
+N1610,C0832,Financial,Minor,Low
+N1611,C0286,Medical,Minor,Medium
+N1612,C0053,Food,Urgent,High
+N1613,C0856,Food,Urgent,Medium
+N1614,C0253,Financial,Moderate need,Low
+N1615,C0793,Medical,Moderate need,High
+N1616,C0520,Food,Minor,Medium
+N1617,C0746,Medical,Minor,Medium
+N1618,C0375,Shelter,Urgent,Low
+N1619,C0586,Financial,Urgent,Low
+N1620,C0262,Financial,Moderate need,High
+N1621,C0038,Medical,Minor,Low
+N1622,C0797,Financial,Urgent,Medium
+N1623,C0479,Food,Urgent,Medium
+N1624,C0081,Food,Urgent,Low
+N1625,C0643,Medical,Minor,Low
+N1626,C0395,Shelter,Moderate need,Medium
+N1627,C0852,Financial,Moderate need,Medium
+N1628,C0630,Food,Moderate need,Low
+N1629,C0293,Shelter,Moderate need,High
+N1630,C0062,Shelter,Minor,High
+N1631,C0270,Medical,Moderate need,Low
+N1632,C0387,Financial,Urgent,High
+N1633,C0065,Medical,Minor,Medium
+N1634,C0629,Financial,Minor,High
+N1635,C0071,Medical,Urgent,Low
+N1636,C0474,Shelter,Urgent,High
+N1637,C0016,Financial,Minor,Low
+N1638,C0615,Medical,Moderate need,Low
+N1639,C0891,Shelter,Moderate need,Low
+N1640,C0652,Medical,Urgent,High
+N1641,C0657,Food,Minor,Low
+N1642,C0877,Food,Minor,High
+N1643,C0736,Financial,Moderate need,Medium
+N1644,C0143,Food,Urgent,Medium
+N1645,C0017,Food,Urgent,High
+N1646,C0160,Financial,Moderate need,Medium
+N1647,C0046,Financial,Moderate need,Low
+N1648,C0015,Financial,Minor,Low
+N1649,C0402,Medical,Moderate need,High
+N1650,C0767,Medical,Urgent,Medium
+N1651,C0516,Food,Minor,High
+N1652,C0485,Food,Urgent,High
+N1653,C0283,Medical,Moderate need,High
+N1654,C0028,Medical,Moderate need,High
+N1655,C0617,Food,Minor,High
+N1656,C0510,Shelter,Urgent,High
+N1657,C0273,Shelter,Minor,High
+N1658,C0321,Food,Moderate need,Medium
+N1659,C0115,Medical,Moderate need,High
+N1660,C0315,Shelter,Moderate need,High
+N1661,C0240,Medical,Urgent,Low
+N1662,C0227,Medical,Urgent,Low
+N1663,C0351,Food,Urgent,Medium
+N1664,C0599,Food,Urgent,Medium
+N1665,C0507,Medical,Moderate need,High
+N1666,C0030,Shelter,Minor,Medium
+N1667,C0189,Financial,Minor,Medium
+N1668,C0634,Food,Urgent,High
+N1669,C0611,Financial,Urgent,High
+N1670,C0419,Food,Minor,High
+N1671,C0750,Food,Urgent,High
+N1672,C0316,Medical,Minor,Medium
+N1673,C0296,Food,Minor,Low
+N1674,C0118,Medical,Minor,Medium
+N1675,C0593,Shelter,Urgent,Medium
+N1676,C0163,Financial,Urgent,Low
+N1677,C0132,Food,Urgent,High
+N1678,C0081,Medical,Minor,Low
+N1679,C0378,Shelter,Urgent,High
+N1680,C0698,Food,Urgent,Medium
+N1681,C0151,Shelter,Minor,Low
+N1682,C0022,Financial,Moderate need,High
+N1683,C0592,Food,Minor,Low
+N1684,C0016,Medical,Moderate need,Medium
+N1685,C0235,Food,Minor,Medium
+N1686,C0479,Financial,Minor,Medium
+N1687,C0030,Financial,Minor,High
+N1688,C0003,Financial,Urgent,Low
+N1689,C0144,Food,Moderate need,Low
+N1690,C0192,Shelter,Moderate need,Medium
+N1691,C0099,Food,Minor,High
+N1692,C0096,Financial,Minor,Low
+N1693,C0803,Financial,Minor,Low
+N1694,C0763,Shelter,Minor,Low
+N1695,C0103,Financial,Moderate need,Medium
+N1696,C0085,Financial,Urgent,High
+N1697,C0579,Financial,Urgent,Low
+N1698,C0330,Food,Urgent,High
+N1699,C0217,Shelter,Minor,High
+N1700,C0230,Financial,Minor,Medium
+N1701,C0737,Medical,Minor,High
+N1702,C0871,Medical,Urgent,Medium
+N1703,C0760,Shelter,Urgent,Medium
+N1704,C0707,Medical,Moderate need,Low
+N1705,C0647,Food,Moderate need,High
+N1706,C0077,Medical,Minor,Low
+N1707,C0011,Financial,Moderate need,Low
+N1708,C0115,Medical,Minor,Medium
+N1709,C0828,Shelter,Urgent,Medium
+N1710,C0294,Food,Moderate need,Low
+N1711,C0064,Shelter,Urgent,High
+N1712,C0368,Medical,Urgent,Low
+N1713,C0651,Financial,Urgent,Low
+N1714,C0244,Shelter,Moderate need,Low
+N1715,C0209,Financial,Minor,Low
+N1716,C0393,Food,Minor,High
+N1717,C0808,Financial,Moderate need,Low
+N1718,C0060,Financial,Urgent,Medium
+N1719,C0765,Medical,Moderate need,High
+N1720,C0810,Medical,Moderate need,High
+N1721,C0060,Food,Urgent,Medium
+N1722,C0321,Medical,Moderate need,Low
+N1723,C0129,Financial,Minor,High
+N1724,C0583,Medical,Moderate need,Medium
+N1725,C0186,Shelter,Minor,Low
+N1726,C0452,Food,Moderate need,Medium
+N1727,C0697,Financial,Moderate need,Low
+N1728,C0689,Medical,Minor,Low
+N1729,C0293,Financial,Moderate need,High
+N1730,C0233,Medical,Moderate need,High
+N1731,C0589,Financial,Moderate need,Low
+N1732,C0352,Financial,Urgent,High
+N1733,C0083,Medical,Minor,High
+N1734,C0652,Shelter,Urgent,Medium
+N1735,C0586,Medical,Moderate need,Low
+N1736,C0251,Shelter,Minor,High
+N1737,C0188,Shelter,Moderate need,High
+N1738,C0079,Shelter,Minor,Medium
+N1739,C0666,Shelter,Moderate need,Medium
+N1740,C0796,Food,Urgent,High
+N1741,C0565,Food,Urgent,Medium
+N1742,C0852,Financial,Urgent,Medium
+N1743,C0195,Financial,Moderate need,Low
+N1744,C0353,Shelter,Minor,Low
+N1745,C0276,Medical,Moderate need,High
+N1746,C0803,Food,Moderate need,Low
+N1747,C0784,Financial,Urgent,High
+N1748,C0004,Medical,Minor,Medium
+N1749,C0091,Financial,Urgent,High
+N1750,C0693,Food,Minor,High
+N1751,C0183,Shelter,Minor,Low
+N1752,C0037,Food,Minor,Medium
+N1753,C0637,Medical,Urgent,Medium
+N1754,C0755,Food,Urgent,High
+N1755,C0452,Financial,Minor,Low
+N1756,C0676,Medical,Moderate need,High
+N1757,C0081,Medical,Urgent,High
+N1758,C0174,Shelter,Minor,High
+N1759,C0333,Financial,Moderate need,Medium
+N1760,C0211,Medical,Urgent,Medium
+N1761,C0219,Medical,Minor,High
+N1762,C0144,Financial,Minor,Medium
+N1763,C0230,Shelter,Minor,High
+N1764,C0250,Medical,Moderate need,Low
+N1765,C0533,Food,Moderate need,Low
+N1766,C0320,Food,Urgent,High
+N1767,C0152,Financial,Minor,High
+N1768,C0060,Medical,Moderate need,High
+N1769,C0823,Financial,Minor,Low
+N1770,C0697,Financial,Urgent,Medium
+N1771,C0645,Medical,Minor,Low
+N1772,C0768,Financial,Urgent,High
+N1773,C0090,Financial,Urgent,Low
+N1774,C0780,Medical,Moderate need,Medium
+N1775,C0782,Financial,Moderate need,High
+N1776,C0312,Medical,Minor,Low
+N1777,C0790,Shelter,Moderate need,Medium
+N1778,C0671,Shelter,Minor,High
+N1779,C0721,Medical,Urgent,Medium
+N1780,C0609,Medical,Moderate need,Low
+N1781,C0289,Financial,Urgent,Medium
+N1782,C0391,Shelter,Minor,Medium
+N1783,C0709,Food,Moderate need,Low
+N1784,C0203,Financial,Minor,Low
+N1785,C0852,Financial,Minor,High
+N1786,C0232,Food,Minor,High
+N1787,C0432,Food,Minor,High
+N1788,C0715,Food,Urgent,Medium
+N1789,C0028,Food,Urgent,High
+N1790,C0552,Food,Minor,Medium
+N1791,C0481,Food,Minor,Low
+N1792,C0242,Shelter,Minor,Low
+N1793,C0463,Food,Minor,Medium
+N1794,C0145,Medical,Urgent,High
+N1795,C0304,Food,Moderate need,Low
+N1796,C0036,Medical,Minor,Medium
+N1797,C0325,Medical,Urgent,Medium
+N1798,C0510,Medical,Urgent,Low
+N1799,C0178,Food,Minor,Medium
+N1800,C0432,Shelter,Minor,Medium
